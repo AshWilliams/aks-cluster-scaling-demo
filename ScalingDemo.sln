@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalingDemo.API", "ScalingDemo.API\ScalingDemo.API.csproj", "{8C675ED1-70E2-4DD1-9567-B89C55DF8FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D7AC54C-327B-4A5E-99F8-1167DEFB08EE}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C675ED1-70E2-4DD1-9567-B89C55DF8FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C675ED1-70E2-4DD1-9567-B89C55DF8FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C675ED1-70E2-4DD1-9567-B89C55DF8FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C675ED1-70E2-4DD1-9567-B89C55DF8FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
